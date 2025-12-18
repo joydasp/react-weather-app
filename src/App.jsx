@@ -1,6 +1,8 @@
 import React from "react";
 import Navbar from "./components/Navbar";
-import Weather from "./components/weather.jsx";
+// src/App.jsx
+
+import Weather from "./components/Weather.jsx";
 function App() {
   return (
     <>
