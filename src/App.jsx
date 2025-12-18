@@ -3,10 +3,11 @@ import Navbar from "./components/Navbar";
 // src/App.jsx
 
 import Weather from "./components/Weather.jsx";
+
 function App() {
   return (
     <>
-      <div>
+      <div>-
         <Weather/>
       </div>
     </>
