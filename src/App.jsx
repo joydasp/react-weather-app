@@ -1,6 +1,6 @@
 import React from "react";
 import Navbar from "./components/Navbar";
-import Weather from "./components/weather";
+import Weather from "./components/weather.jsx";
 function App() {
   return (
     <>
